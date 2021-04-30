@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="inventory_title_hint">Задайте назву інвентарю</string>
+    <string name="inventory_title_label">Назва інвентарю</string>
+    <string name="inventory_details_label">Опис</string>
+    <string name="inventory_solved_label">Статус</string>
+
+</resources>
